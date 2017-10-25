@@ -1,7 +1,7 @@
 # 感知器(Perceptron)
 
 ## 模型
-输入空间 $x$，输出空间$y = {+1, -1}$
+输入空间 $x \in \mathbb R^n$，输出空间$y = \{+1, -1\}$
 
 $f(x) = sign(w^T \cdot x + b)$
 
