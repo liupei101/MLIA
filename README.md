@@ -9,4 +9,13 @@
 ## Chapter03: KNN
 K邻近模型的实现
 
-~~Doing！~~
+~~Done！~~
+
+## Chapter04: Naive Bayesian
+简要的朴素贝叶斯实现
+
+~~Done！~~
+
+## Chapter05: Decision Tree
+
+Doing!
