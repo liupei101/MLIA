@@ -17,5 +17,11 @@ K邻近模型的实现
 ~~Done！~~
 
 ## Chapter05: Decision Tree
+简要的决策树实现(基于信息增益选择特征)
 
-Doing!
+~~Done！~~
+
+## Chapter08: Boosting
+梯度提升方法的实现(主要实现了Adaboost算法)
+
+~~Done！~~
