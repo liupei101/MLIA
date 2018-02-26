@@ -21,7 +21,13 @@ K邻近模型的实现
 
 ~~Done！~~
 
+<<<<<<< HEAD
 ## Chapter08: Boosting
 梯度提升方法的实现(主要实现了Adaboost算法)
 
 ~~Done！~~
+=======
+## Chapter07: Boosting
+
+Doing !
+>>>>>>> origin/master
