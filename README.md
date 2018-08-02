@@ -1,4 +1,4 @@
-# MLIA(Machine Learning In Action)
+﻿# MLIA(Machine Learning In Action)
 按照李航的《统计学习方法》上的章节顺序，利用Python实现相关算法
 
 ## Chapter02: Perceptron
@@ -18,6 +18,11 @@ K邻近模型的实现
 
 ## Chapter05: Decision Tree
 简要的决策树实现(基于信息增益选择特征)
+
+~~Done！~~
+
+## Chapter07: SVM
+SVM (主要实现了基于SVM的递归特征消除方法，用于特征重要性排序)
 
 ~~Done！~~
 
