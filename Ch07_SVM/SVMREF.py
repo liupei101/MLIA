@@ -90,7 +90,7 @@ class svmref(object):
             for i in range(len(self.ranking)):
                 f.write("Iterations " + str(i) + ":\n")
                 n = len(self.ranking[i])
-                for j in range(len(n)):
+                for j in range(n):
                     f.write("\tNo.%d\t%s\n" % (j, self.ranking[i][n-1-j]))
         with open("logging.txt", "w") as f:
             for logging_per_run in self.logging:
