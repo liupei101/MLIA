@@ -1,5 +1,5 @@
 ﻿# MLIA(Machine Learning In Action)
-按照李航的《统计学习方法》上的章节顺序，利用Python实现相关算法
+主要按照李航的《统计学习方法》上的章节顺序，利用Python实现相关算法
 
 ## Chapter02: Perceptron
 简单的感知器模型实现(README简要说明了该模型的原理)
@@ -30,3 +30,8 @@ SVM (主要实现了基于SVM的递归特征消除方法，用于特征重要性
 梯度提升方法的实现(主要实现了Adaboost算法)
 
 ~~Done！~~
+
+## Chapter0X: Dimensionality Reduction
+数据降维常用算法(非监督式的降维方法：PCA、LDA、NFM，以及监督式的降维方法：PLS)
+
+~~in processing~~
