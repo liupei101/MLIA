@@ -32,6 +32,6 @@ SVM (主要实现了基于SVM的递归特征消除方法，用于特征重要性
 ~~Done！~~
 
 ## Chapter0X: Dimensionality Reduction
-数据降维常用算法(非监督式的降维方法：PCA、LDA、NFM，以及监督式的降维方法：PLS)
+数据降维常用算法(非监督式的降维方法：PCA、NFM，以及监督式的降维方法：PLS、LDA)
 
 ~~in processing~~
